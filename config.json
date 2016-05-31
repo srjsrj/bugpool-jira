@@ -1,0 +1,10 @@
+{
+    "jiraConnect": {
+        "protocol": "https",
+        "host": "jira.domain.com",
+        "username": "",
+        "password": "",
+        "apiVersion": 2,
+        "strictSSL": true
+    }
+}
